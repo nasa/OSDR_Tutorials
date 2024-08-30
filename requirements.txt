@@ -1,0 +1,7 @@
+sphinx>=7
+sphinx-rtd-theme
+myst-parser
+sphinx-markdown-tables
+sphinx-copybutton
+sphinx-design
+sphinx-hoverxref
