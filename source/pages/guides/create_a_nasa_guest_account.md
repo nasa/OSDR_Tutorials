@@ -38,7 +38,7 @@ Set up an account password. A password must be 12 to 32 characters long and must
 ## Step 4: Registration Complete  
 
 Registration is complete. **This account is used to access both the OSDR Biological Data Management Environment (BDME) and Workspace.** Your NASA guest account is good for one year. You will receive an email at the end of the year with an option to request for an extension. 
-> - **Your password expires every 60 days** and much be updated before the expiration date or you will get locked out of your account.
+> - **Your password expires every 60 days** and must be updated before the expiration date or you will get locked out of your account.
 > - If you get locked out, contact ESD at 1-877-677-2123 to reset your password.
 
 ```{image} ../../_static/images/nasa_guest_acct/nasa-guest-account-registered.jpg
