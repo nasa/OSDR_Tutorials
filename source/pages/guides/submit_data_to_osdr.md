@@ -142,7 +142,7 @@ After logging in to Workspace, create relevant folders for your data files. It i
 :width: 800px
 ```
 
-## Login to BDME and Create a New Study
+### Login to BDME and Create a New Study
 
 You now have everything you need to create a new study in BDME, then input your sample and assay(s) metadata, and associate your data files.
 
@@ -230,7 +230,7 @@ After you click "Next", a new OSD-# and DOI are automatically created for your s
 :width: 800px
 ```
 
-## Input Study Information, Sample and Assay Metadata, and Associate Data Files
+### Input Study Information, Sample and Assay Metadata, and Associate Data Files
 
 **16. Navigate to the study overview.**
 
@@ -291,7 +291,7 @@ OSDR definitions of the different column types:
 
 - **Comments** = Secondary information descriptors about the sample metadata which does not technically fall into Factors, Characteristics, or Parameters. Since all data submissions are reviewed by curators, if in doubt, adding your metadata as a comment is acceptable.
 
-- **Protocols** - A Protocol REF column refers to the protocol or procedure that was followed during a specific step of an experiment. This column links each experimental step or process to a corresponding protocol. In the sample table, the Protocol Ref columns describe the experimental process up to the point of sample collection.
+- **Protocols** = A Protocol REF column refers to the protocol or procedure that was followed during a specific step of an experiment. This column links each experimental step or process to a corresponding protocol. In the sample table, the Protocol Ref columns describe the experimental process up to the point of sample collection.
 
 - **Parameters** = Names or values to describe attributes related to a particular Protocol Refs; e.g. Diet, Light Cycle, Habitat, Duration, Sample Preservation Method, Housing Temperature, Growth Environment, Growth Time, Age at Harvest, etc.
 
@@ -392,7 +392,7 @@ If you want to change the release date of your study, click on the "Release Date
 :width: 800px
 ```
 
-## Preview Your Study and Submit to OSDR 
+### Preview Your Study and Submit to OSDR 
 
 **28. Preview how your study will be displayed on OSDR.**
 
