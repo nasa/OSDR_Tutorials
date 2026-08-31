@@ -1,6 +1,13 @@
 # Data Submission Guide
 
-If you have any questions during the data submission process, please contact the OSDR Curation team at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).
+If you have any questions during the data submission process, please contact the OSDR Curation team at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov). To help us assist you efficiently, please include the following: 
+
+- A brief **1–3 sentence description of your study**
+- The **assay type(s)** included in your study
+- Your **Workspace username** (*not just your email address*)
+- Your **OSD identifier**, if one has already been assigned
+
+Our curation team is available to help answer questions and guide you through the submission process.
 
 ## Prior to starting the data submission process please do the following:
 
