@@ -21,18 +21,29 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
    pages/guides/radlab_portal
    pages/guides/report_issues
 
+.. rubric:: Video Tutorials
+
+`Install MCP-GeneLab On Common MCP Clients <https://youtu.be/tcZ9X-C7wl8>`__
+
+- Claude Timestamp: 0:25
+- ChatGPT Timestamp: 4:42
+- VScode Copilot Timestamp: 7:10
+
+Install OSDR BioData API Skills Package On Common Clients:
+
+- `Claude <https://youtu.be/bEgyZxbScLM>`__
+- `ChatGPT <https://youtu.be/Grp2T-fyvLI>`__
+- `VScode Copilot <https://youtu.be/oasNuQnz8C8>`__
+
 .. toctree::
    :maxdepth: 1
    :caption: Video Tutorials
+   :hidden:
 
    Install MCP-GeneLab On Common MCP Clients <https://youtu.be/tcZ9X-C7wl8>
-   - Claude Timestamp: 0.25
-   - ChatGPT Timestamp: 4:42
-   - VScode Copilot Timestamp: 7:10
-   Install OSDR BioData API Skills Package On Common Clients:
-   - Claude <https://youtu.be/bEgyZxbScLM>
-   - ChatGPT <https://youtu.be/Grp2T-fyvLI>
-   - VScode Copilot <https://youtu.be/oasNuQnz8C8>
+   Install OSDR Skills Package (Claude) <https://youtu.be/bEgyZxbScLM>
+   Install OSDR Skills Package (ChatGPT) <https://youtu.be/Grp2T-fyvLI>
+   Install OSDR Skills Package (VScode Copilot) <https://youtu.be/oasNuQnz8C8>
 
 .. toctree::
    :maxdepth: 1
