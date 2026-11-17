@@ -21,7 +21,11 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
    pages/guides/radlab_portal
    pages/guides/report_issues
 
-.. rubric:: Video Tutorials
+.. raw:: html
+
+   <div class="toctree-wrapper compound">
+     <p class="caption" role="heading"><span class="caption-text">Video Tutorials</span></p>
+   </div>
 
 `Install MCP-GeneLab On Common MCP Clients <https://youtu.be/tcZ9X-C7wl8>`__
 
