@@ -23,6 +23,19 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
 
 .. toctree::
    :maxdepth: 1
+   :caption: Video Tutorials
+
+   Install MCP-GeneLab On Common MCP Clients <https://youtu.be/tcZ9X-C7wl8>
+   - Claude Timestamp: 0.25
+   - ChatGPT Timestamp: 4:42
+   - VScode Copilot Timestamp: 7:10
+   Install OSDR BioData API Skills Package On Common Clients:
+   - Claude <https://youtu.be/bEgyZxbScLM>
+   - ChatGPT <https://youtu.be/Grp2T-fyvLI>
+   - VScode Copilot <https://youtu.be/oasNuQnz8C8>
+
+.. toctree::
+   :maxdepth: 1
    :caption: Portals
 
    Data Repository <https://osdr.nasa.gov/bio/repo/>
@@ -38,6 +51,8 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
    OSDR Curation <https://github.com/nasa/OSDR_Data_Curation>
    GeneLab Sample Processing <https://github.com/nasa/GeneLab-sampleProcessing>
    GeneLab Data Processing <https://github.com/nasa/GeneLab_Data_Processing>
+   MCP-GeneLab <https://github.com/sbl-sdsc/mcp-genelab>
+   OSDR Skills <https://github.com/nasa/OSDR_Skills>
 
 .. toctree::
    :maxdepth: 2
